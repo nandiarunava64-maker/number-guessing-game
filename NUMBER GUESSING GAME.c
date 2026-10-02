@@ -13,7 +13,7 @@ int main()
 		number = rand() % 50 + 1;
 		
 		printf("===== NUMBER GUESSING GAME =====\n");
-		printf("I have selected a number between 1 to 50. \n");
+		printf("I have selected a number between 1 to 35. \n");
 		printf("Try to guess it \n\n");
 		
 		
